@@ -10,4 +10,4 @@ $(document).ready(function(){
 		  $(".navbar").css("background" , "transparent");  	
 	  }
   })
-})
+})   
